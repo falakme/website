@@ -3,3 +3,8 @@ node_modules
 out
 next-env.d.ts
 *.tsbuildinfo
+
+# Cloudflare
+.open-next
+.wrangler
+.dev.vars
